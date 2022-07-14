@@ -1,4 +1,4 @@
-# Porjeto Python
+# Projeto Python
 ## Python
  **Primeiro repositório com meus códigos em python**
  
